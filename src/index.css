@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*{
+  border-radius: 0px !important;
+}
+
+input, .dropdown{
+  float:left;
+}
+
+h1{
+  text-align: center !important;
+}
