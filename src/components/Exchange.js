@@ -184,7 +184,7 @@ const Exchange = () => {
             options={{
               title: {
                 display: true,
-                text: "Currency Rate",
+                text: "Currency Rate w.r.t. USD",
                 fontSize: 20,
               },
               legend: {
