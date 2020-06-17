@@ -23,3 +23,7 @@ input, .dropdown{
 h1{
   text-align: center !important;
 }
+.dropdown-menu.show {
+  max-height: 400px;
+  overflow: auto;
+}
